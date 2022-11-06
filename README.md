@@ -24,3 +24,5 @@ $ make setup
 ```
 $ make run-server
 ```
+
+<img width="491" alt="image" src="https://user-images.githubusercontent.com/48505409/200153152-91f64deb-adb3-417b-9885-2126f5259598.png">
