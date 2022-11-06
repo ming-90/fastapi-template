@@ -20,7 +20,6 @@ $ conda activate fastapi-template
 $ make setup
 ```
 
-2. How to use it?
 1. Run the server
 ```
 $ make run-server
